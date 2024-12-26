@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **Mini Project**
 
-- 🌱 I’m currently learning **"PYT🐍HON"**
-
+- 🌱 I’m currently learning **PYT🐍HON**
 - 📫 How to reach me **rnc93056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
