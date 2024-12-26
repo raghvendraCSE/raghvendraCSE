@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mini Project**
 
-- 🌱 I’m currently learning **"C" language**
+- 🌱 I’m currently learning **"PYTHON"**
 
 - 📫 How to reach me **rnc93056@gmail.com**
 
