@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm Raghvendra Nath Chaturvedi</h1>
-<h3 align="center">A passionate Software Engineering from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/386ed557-6c02-4383-b337-35267ecf54dc" style="border-radius: 15px;">
 
 - 🔭 I’m currently working on **Mini Project**
